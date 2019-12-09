@@ -160,15 +160,12 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Vincent Fuger](https://twitter.com/Rhedynen_), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Yohann Gablowski, Développeur Web
 * Delphine Gauthier, Développeuse Web
-* [Mickaël Gillot](https://mickaelgillot.xyz), Ingénieur intégration, Worldline
 * Johan Girod, Freelance, Développeur web, Membre de la communauté beta.g﻿﻿ouv.fr
-* Nicolas Gomes, Développeur Web
 * Ludovic Gonthier, Développeur web indépendant
 * Baptiste Goulard, Développeur web
 * Benjamin Gounine, Développeur Web - Consultant cybersécurité
 * Tristram Gräbener, Codeurs en Liberté, Développeur web, Membre de la communauté beta.gouv.fr
 * [Nicolas Grekas](https://twitter.com/nicolasgrekas), Ingénieur logiciels libres
-* Armaël Guéneau, doctorant en informatique
 * Aloïs Guillopé, Développeur
 * [Cécile Hamerel](https://twitter.com/cecilehamerel), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * [Richard Hanna](https://supertanuki.github.io/home/), développeur [fairness.coop](https://fairness.coop/)
@@ -220,6 +217,7 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Grégoire Pineau](https://github.com/lyrixx), Développeur
 * [Damien Pobel](https://damien.pobel.fr/)
 * [Alan Poulain](https://twitter.com/_alanpoulain), [Les-Tilleuls.coop](https://les-tilleuls.coop)
+* [Mickael Prevot](https://twitter.com/mick_prev), Lead Developer [norsys](https://www.norsys.fr)
 * [Yann Prou](https://twitter.com/yanoucrea), [Les-Tilleuls.coop](https://les-tilleuls.coop)
 * Nicolas Quéquet, développeur
 * [Yann Rabiller](https://twitter.com/Einenlum), développeur
@@ -232,7 +230,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * Pauline Roca, Salariée, data-scientiste, Pixyl (medtech)
 * [Alex Rock](https://twitter.com/Pierstoval), Formateur et développeur web, membre de l'[AFUP](https://afup.org/)
 * [Pierre Romera](https://pirhoo.com), CTO au Consortium International des Journalistes d'Investigation (ICIJ)
-* [Maxime Rouquet](https://twitter.com/marou_pp), Développeur de jeux vidéos, ancien président du Parti Pirate
 * Gilles Roustan, Développeur à Mediapart
 * [Boris Schapira](https://boris.schapira.dev), professionnel du Web
 * [Stanislas « Signez » Signoud](https://twitter.com/Signez), développeur et créateur de médias
@@ -260,7 +257,6 @@ Le format à respecter est : `[Prénom Nom](https://web-ou-reseau-social), fonct
 * [Yvain Liechti](https://twitter.com/ryuran78), développeur frontend
 * Nicolas Assing, développeur
 * [Maxime Steinhausser](https://github.com/ogizanagi), développeur
-* [Peio Roth](https://peio.now.sh/), développeur
 
 ### Organisations
 
